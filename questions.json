@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the output of the following code?\n\nprint(2 ** 3)",
+        "options": ["6", "8", "9", "12"],
+        "answer": "8"
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": ["int", "str", "tuple", "list"],
+        "answer": "list"
+    },
+    {
+        "question": "How do you create a function in Python?",
+        "options": ["function myFunction()", "def myFunction():", "create myFunction(){}", "function:myFunction()"],
+        "answer": "def myFunction():"
+    },
+    {
+        "question": "What does the 'len()' function do in Python?",
+        "options": ["Returns the length of an object", "Creates a new list", "Counts the number of occurrences of a value", "Checks if a value exists in a list"],
+        "answer": "Returns the length of an object"
+    },
+    {
+        "question": "Which of the following is not a valid variable name in Python?",
+        "options": ["_myVar", "my_var", "myVar", "2myVar"],
+        "answer": "2myVar"
+    }
+]
